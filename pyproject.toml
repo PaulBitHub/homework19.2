@@ -2,7 +2,7 @@
 name = "homework19-2"
 version = "0.1.0"
 description = ""
-authors = ["PaulBitHub <p.bitiakov.official@gmail.com>"]
+authors = ["PaulBitHub  <p.bitiakov.official@gmail.com>"]
 readme = "README.md"
 packages = [{include = "homework19"}]
 
